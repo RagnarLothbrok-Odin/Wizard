@@ -1,4 +1,4 @@
-name="DON'T TOUCH"
+name="Björn"
 version="1.0"
 url="https://www.dropbox.com/s/u734gj1ice6lon8/DONT-TOUCH.zip?dl=1"
 minor="http://"
