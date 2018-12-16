@@ -4,9 +4,9 @@ zip="https://github.com/ragnarlothbrok-odin/Addons/raw/master/plugin.program.rag
 
 name="Bjorn"
 version="1.0"
-url="https://www.dropbox.com/s/qctkvgr3tb78icf/Bjorn-18.zip?dl=1"
+url="https://www.dropbox.com/s/b2lh6hd226j1vep/Bjorn-18.zip?dl=1"
 minor="http://"
-gui="https://www.dropbox.com/s/ag6ppkgc2xxrslt/Bjorn-18-gui.zip?dl=1"
+gui="https://www.dropbox.com/s/mofgsysis08ogdr/Bjorn-18-gui.zip?dl=1"
 kodi="18.0"
 theme="http://"
 icon="https://github.com/RagnarLothbrok-Odin/Wizard/blob/master/Build%20Artwork/bjorn.png"
