@@ -1,6 +1,7 @@
 name="Bjorn"
-version="1.1"
+version="1.2"
 url="https://www.dropbox.com/s/b2lh6hd226j1vep/Bjorn-18.zip?dl=1"
+minor="http://"
 gui="https://www.dropbox.com/s/mofgsysis08ogdr/Bjorn-18-gui.zip?dl=1"
 kodi="18.0"
 theme="http://"
