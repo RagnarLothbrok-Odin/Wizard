@@ -1,5 +1,5 @@
 name="Ivar"
-version="2.3"
+version="2.4"
 url="https://www.dropbox.com/s/at4ykwv7o90daxe/Ivar.zip?dl=1"
 minor="http://"
 gui="https://www.dropbox.com/s/gssxa9xz1xb80ll/Ivar-gui.zip?dl=1"
