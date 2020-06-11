@@ -3,7 +3,7 @@ version="1.4.1"
 zip="https://github.com/RagnarLothbrok-Odin/repository.ragnarokwizard/raw/master/zips/plugin.program.ragnarok/plugin.program.ragnarok-1.4.1.zip"
 
 name="Ivar"
-version="2.5"
+version="2.6"
 url="https://www.dropbox.com/s/at4ykwv7o90daxe/Ivar.zip?dl=1"
 minor="http://"
 gui="https://www.dropbox.com/s/gssxa9xz1xb80ll/Ivar-gui.zip?dl=1"
