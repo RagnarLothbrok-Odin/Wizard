@@ -3,7 +3,7 @@ version="1.4.1"
 zip="https://github.com/RagnarLothbrok-Odin/repository.ragnarokwizard/raw/master/zips/plugin.program.ragnarok/plugin.program.ragnarok-1.4.1.zip"
 
 name="Ragnar"
-version="1.4"
+version="1.5"
 url="https://www.dropbox.com/s/90ld5yqersyho72/Ragnar.zip?dl=1"
 minor="http://"
 gui="https://www.dropbox.com/s/kagcy7t0cdyw9u3/Ragnar-gui.zip?dl=1"
