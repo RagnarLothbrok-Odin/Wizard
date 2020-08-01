@@ -1,9 +1,9 @@
 id="plugin.program.ragnarok"
-version="1.4.1"
-zip="https://github.com/RagnarLothbrok-Odin/repository.ragnarokwizard/raw/master/zips/plugin.program.ragnarok/plugin.program.ragnarok-1.4.1.zip"
+version="1.4.4"
+zip="https://github.com/RagnarLothbrok-Odin/repository.ragnarokwizard/raw/master/zips/plugin.program.ragnarok/plugin.program.ragnarok-1.4.4.zip"
 
 name="Ragnar"
-version="1.5"
+version="1.6"
 url="https://www.dropbox.com/s/90ld5yqersyho72/Ragnar.zip?dl=1"
 minor="http://"
 gui="https://www.dropbox.com/s/kagcy7t0cdyw9u3/Ragnar-gui.zip?dl=1"
@@ -13,7 +13,7 @@ icon="https://raw.githubusercontent.com/RagnarLothbrok-Odin/Wizard/master/Build%
 fanart="https://raw.githubusercontent.com/RagnarLothbrok-Odin/Wizard/master/fanart.jpg"
 preview="http://"
 adult="no"
-info="http://"
+info="https://raw.githubusercontent.com/RagnarLothbrok-Odin/Wizard/master/Build%20Info/Ragnar.txt"
 description="You NEED to have either RealDebrid, or Premiumize for this build to work! (Add to settings of Seren) - AH"
 
 name="Ivar"

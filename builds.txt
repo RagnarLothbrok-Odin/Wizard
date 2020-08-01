@@ -1,5 +1,5 @@
 name="Ragnar"
-version="1.5"
+version="1.6"
 url="https://www.dropbox.com/s/90ld5yqersyho72/Ragnar.zip?dl=1"
 minor="http://"
 gui="https://www.dropbox.com/s/kagcy7t0cdyw9u3/Ragnar-gui.zip?dl=1"
