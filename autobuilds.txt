@@ -31,7 +31,7 @@ info="http://"
 description="Build includes The Crew addon, which has free streaming links."
 
 name="Test Build"
-version="1"
+version="1.1"
 url="https://www.dropbox.com/s/myjg59ztn1rjc53/test-build.zip?dl=1"
 minor="http://"
 gui="https://www.dropbox.com/s/xdd0jucknqtugcj/test-build_guisettings.zip?dl=0"
