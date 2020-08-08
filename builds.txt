@@ -1,5 +1,5 @@
 name="Valhalla"
-version="2.26"
+version="2.27"
 url="https://www.dropbox.com/s/fm1vys0m1umnkxt/Valhalla.zip?dl=1"
 minor="http://"
 gui="https://www.dropbox.com/s/rv5edlvs4gwungx/Valhalla_guisettings.zip?dl=1"
