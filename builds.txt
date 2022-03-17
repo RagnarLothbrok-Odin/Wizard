@@ -13,7 +13,7 @@ info="https://raw.githubusercontent.com/RagnarLothbrok-Odin/Wizard/master/Build%
 description="You NEED to have either RealDebrid, or Premiumize for this build to work! (Add to settings of Seren) - AH"
 
 name="Serenity"
-version="1.11"
+version="1.12"
 url="https://www.dropbox.com/s/zp920xk09hg8jce/Serenity.zip?dl=1"
 minor="http://"
 gui="https://www.dropbox.com/s/1amgqll299wca9t/Serenity_guisettings.zip?dl=1"
