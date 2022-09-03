@@ -1,5 +1,5 @@
 name="Ragnarok"
-version="1.9"
+version="2.0"
 url="https://www.dropbox.com/s/zytrlk4uje2iqsp/Ragnarok.zip?dl=1"
 minor="http://"
 gui="https://www.dropbox.com/s/0t3h2a3su8cjfv8/Ragnarok_guisettings.zip?dl=1"
