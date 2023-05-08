@@ -1,5 +1,5 @@
 name="Pandora"
-version="1.8"
+version="1.9"
 url="https://www.dropbox.com/s/3ggnm88yifoh105/Pandora.zip?dl=1"
 minor="http://"
 gui="https://www.dropbox.com/s/yi2i9r9as0s05nv/Pandora_guisettings.zip?dl=1"
