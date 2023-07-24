@@ -28,9 +28,9 @@ description="You NEED to have either RealDebrid, or Premiumize for this build to
 
 name="Bifrost"
 version="1.1"
-url="https://www.dropbox.com/scl/fi/e1il2pl4wetgu827tkfgk/Yggdrasil.zip?rlkey=otw28zxb2nlng0hckobserjrk&dl=1"
+url="https://www.dropbox.com/scl/fi/crcjf6feilhsmo8bq6p70/Bifrost.zip?rlkey=xk4vyec2rrswyxcsr8q9guq7l&dl=1"
 minor="http://"
-gui="https://www.dropbox.com/scl/fi/pdoknvlc3hn79agacus77/Yggdrasil_guisettings.zip?rlkey=9mpz764ue1obzycp4hu75n2n1&dl=1"
+gui="https://www.dropbox.com/scl/fi/9kuvs9pozm5qm196nksj7/Bifrost_guisettings.zip?rlkey=psn3do4smg8djm2yolsjqo6ep&dl=1"
 kodi="20.1"
 theme="http://"
 icon="https://raw.githubusercontent.com/RagnarLothbrok-Odin/Wizard/master/Build%20Artwork/Bifrost.png"
